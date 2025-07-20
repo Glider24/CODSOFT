@@ -47,22 +47,11 @@ A fun Rock-Paper-Scissors game where the user plays against the computer with:
 
 ---
 
-## 📂 Repository Structure
-
-CODSOFTJUNE/
- ├── Task1_ToDoList/
- ├── Task2_PasswordGenerator/
- ├── Task3_RockPaperScissors/
- ├── README.md (this file)
-
----
-
 ## 🚀 How to Run
 
 1. Make sure you have **Python 3.x** installed.
 2. Open each task folder.
 3. Run the `.py` files using:
-
 
 ---
 
