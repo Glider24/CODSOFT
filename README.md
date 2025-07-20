@@ -1,4 +1,4 @@
-# CODSOFTJUNE - Python Programming Internship Tasks
+# CODSOFT - Python Programming Internship Tasks
 
 Welcome! This repository contains my completed tasks for the **CodSoft Python Programming Internship (June)**.
 It includes **three projects** that demonstrate my skills in Python programming, problem-solving, and practical application.
