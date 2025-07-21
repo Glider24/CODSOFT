@@ -47,7 +47,7 @@ A fun Rock-Paper-Scissors game where the user plays against the computer with:
 
 ---
 
-## ✅ 5️⃣ Timeline
+## 🕑 Timeline
 
 | Day   | Action                                        |
 |-------|-----------------------------------------------|
