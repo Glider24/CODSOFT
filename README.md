@@ -28,9 +28,9 @@ This project uses Python basics, file handling, and user input.
 
 ---
 
-### 2️⃣ Password Generator
+### 2️⃣ Calculator
 
-A Python program that generates strong, random passwords based on user-defined length and complexity.
+A Python program that performs basic arithmetic operations like addition, subtraction, multiplication, and division with user input.
 
 👉 [Task2_PasswordGenerator](./Task2_Calculator)
 
