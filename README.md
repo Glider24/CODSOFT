@@ -32,7 +32,7 @@ This project uses Python basics, file handling, and user input.
 
 A Python program that performs basic arithmetic operations like addition, subtraction, multiplication, and division with user input.
 
-👉 [Task2_PasswordGenerator](./Task2_Calculator)
+👉 [Task2_Calculator](./Task2_Calculator)
 
 ---
 
