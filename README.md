@@ -32,18 +32,7 @@ This project uses Python basics, file handling, and user input.
 
 A Python program that generates strong, random passwords based on user-defined length and complexity.
 
-👉 [Task2_PasswordGenerator](./Task2_PasswordGenerator)
-
----
-
-### 3️⃣ Rock-Paper-Scissors Game
-
-A fun Rock-Paper-Scissors game where the user plays against the computer with:
-- Random choices
-- Win/Lose/Tie logic
-- Optional score tracking for multiple rounds
-
-👉 [Task3_RockPaperScissors](./Task3_RockPaperScissors)
+👉 [Task2_PasswordGenerator](./Task2_Calculator)
 
 ---
 
