@@ -47,11 +47,18 @@ A fun Rock-Paper-Scissors game where the user plays against the computer with:
 
 ---
 
-## 🚀 How to Run
+## ✅ 5️⃣ Timeline
 
-1. Make sure you have **Python 3.x** installed.
-2. Open each task folder.
-3. Run the `.py` files using:
+| Day   | Action                                        |
+|-------|-----------------------------------------------|
+| Day 1 | Set up GitHub, plan folders, start Task 1     |
+| Day 2 | Finish To-Do List app                         |
+| Day 3 | Test and record demo for Task 1               |
+| Day 4 | Do Password Generator                         |
+| Day 5 | Test and record demo for Task 2               |
+| Day 6 | Do Rock-Paper-Scissors                        |
+| Day 7 | Test and record demo for Task 3               |
+| Day 8 | Upload videos, post on LinkedIn, finalize GitHub README |
 
 ---
 
