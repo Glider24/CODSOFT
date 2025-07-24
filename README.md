@@ -43,9 +43,9 @@ A Python program that performs basic arithmetic operations like addition, subtra
 | Day 1 | Set up GitHub, plan folders, start Task 1     |
 | Day 2 | Finish To-Do List app                         |
 | Day 3 | Test and record demo for Task 1               |
-| Day 4 | Do Password Generator                         |
+| Day 4 | Do Calculator                                 |
 | Day 5 | Test and record demo for Task 2               |
-| Day 6 | Do Rock-Paper-Scissors                        |
+| Day 6 | Do Password Generator                         |
 | Day 7 | Test and record demo for Task 3               |
 | Day 8 | Upload videos, post on LinkedIn, finalize GitHub README |
 
