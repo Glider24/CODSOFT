@@ -36,6 +36,13 @@ A Python program that performs basic arithmetic operations like addition, subtra
 
 ---
 
+### 3️⃣ Password Generator  
+A Python program that generates strong, random passwords based on user-defined length using letters, numbers, and symbols.
+
+👉 [Task3_PasswordGenerator](./Task3_PasswordGenerator)
+
+---
+
 ## 🕑 Timeline
 
 | Day   | Action                                        |
